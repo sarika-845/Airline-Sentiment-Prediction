@@ -38,7 +38,7 @@ Model Saving → Save trained model and vectorizer (.pkl).
 Deployment → Build Streamlit app (app.py) for real‑time predictions.
 GitHub + Streamlit Cloud → Upload repo, deploy app online.
 
-Streamlit coloud Deployed link : 
+Streamlit coloud Deployed link : https://sarika-845-airline-sentiment-prediction-app-gcy5tc.streamlit.app/
 
 
 📊 Results
